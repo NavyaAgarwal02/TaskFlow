@@ -42,8 +42,8 @@ The project uses Node.js, Express, MongoDB for the backend and React (Vite) with
 
 ## 📁 Project Repositories
 
-- **Backend:** https://github.com/naveenc-04/task-manager-backend  
-- **Frontend:** https://github.com/naveenc-04/task-manager-frontend  
+- **Backend:** https://github.com/NavyaAgarwal02/TaskFlow/backend 
+- **Frontend:** https://github.com/NavyaAgarwal02/TaskFlow/frontend 
 
 
 
@@ -101,7 +101,7 @@ http://localhost:5000
 
 ```bash
 git clone https://github.com/NavyaAgarwal02/TaskFlow/frontend.git
-cd task-manager-frontend
+cd frontend
 ```
 
 ### 2. Install Dependencies
