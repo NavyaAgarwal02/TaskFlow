@@ -1,4 +1,4 @@
-# ✅ TaskFlow – Full Stack Task Manager Application
+# TaskFlow – Full Stack Task Manager Application
 
 TaskFlow is a full-stack task management application that allows users to create, view, update, and delete tasks with priority and status support.
 
@@ -62,8 +62,8 @@ The project uses Node.js, Express, MongoDB for the backend and React (Vite) with
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/naveenc-04/task-manager-backend.git
-cd task-manager-backend
+git clone https://github.com/NavyaAgarwal02/TaskFlow/backend.git
+cd TaskFlow
 ````
 
 ### 2. Install Dependencies
@@ -100,7 +100,7 @@ http://localhost:5000
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/naveenc-04/task-manager-frontend.git
+git clone https://github.com/NavyaAgarwal02/TaskFlow/frontend.git
 cd task-manager-frontend
 ```
 
